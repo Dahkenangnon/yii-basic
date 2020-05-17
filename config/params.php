@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'adminEmail' => 'contact@marronile.com',
-    'senderEmail' => 'noreply@marronile.com',
+    'adminEmail' => 'dah.kenangnon@gmail.com',
+    'senderEmail' => 'dah.kenangnon@gmail.com',
     'senderName' => 'Marronile.com mailer',
 ];
